@@ -10,7 +10,7 @@ headless: true
 weight: 80
 active: false
 
-title: Featured Publications
+title: Publications, Preprints & Working papers
 subtitle: ''
 
 content:
