@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sebastian Calcetero
+title: Sebastian Felipe Calcetero Vanegas
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
     url: https://actsci.utstat.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Sebastian is a PhD candidate in statistics, working on the developement of predictive models for application in non-life insurance.
 
 
 # Interests to show in About widget
@@ -28,8 +28,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student Statistics
-      institution: Stanford University
+    - course: PhD Statistics
+      institution: University of Toronto
       year: 2024 (expected)
     - course: MSc in Actuarial Science and Quantitative Finance
       institution: Universidad Nacional de Colombia
