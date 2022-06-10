@@ -25,6 +25,17 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
+    address:
+     street: 700 University Avenue
+     city: Toronto
+     region: CA
+     postcode: 'M5G 1X6'
+     country: Canada
+     country_code: CA
+   coordinates:
+    latitude: '46.658891'
+    longitude: '-79.390513'
+    directions: 9 floor desk 9145 3
  
   columns: '2'
 ---
