@@ -14,11 +14,8 @@ organizations:
     url: https://actsci.utstat.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sebastian Calcetero is a Ph.D. candidate in statistics at the University of Toronto. He is mainly interested in the application of statitics and analytics tools to actuarial science, risk management and climate modelling.  His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance. 
+bio: 
 
-You can download his CV here.
-
-Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca
 
 # Interests to show in About widget
 interests:
@@ -82,8 +79,9 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sebastian Calcetero is a Ph.D. candidate in statistics at the University of Toronto. He is mainly interested in the application of statitics and analytics tools to actuarial science, risk management and climate modelling.  His doctoral research concerns the development of interpretable and flexible predictive models for applications in ratemaking and reserving in general insurance. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+You can download his CV here.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Email: sebastian [dot] calcetero [at] mail [dot] utoronto [dot] ca
+
