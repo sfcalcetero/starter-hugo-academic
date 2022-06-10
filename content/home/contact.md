@@ -28,8 +28,8 @@ content:
     address:
      street: 700 University Avenue
      city: Toronto
-     region: CA
-     postcode: 'M5G 1X6'
+     region: ON
+     postcode: 'M5G1X6'
      country: Canada
      country_code: CA
    coordinates:
