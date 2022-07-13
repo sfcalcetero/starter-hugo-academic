@@ -1,24 +1,24 @@
 ---
-title: IME
+title: A Credibility Index for Efficient Computation and Interpretation of Posterior Ratemaking with Applications to Large Non-Life Insurance Portfolios
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 25th (2022) International Congress on Insurance, Mathematics and Economics
+event_url: https://conf.ichaos.com.cn/ime2022/page/1
 
-location: Wowchemy HQ
+location: Online
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: '94305'
+  country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 
+abstract: 'Bayesian credibility models for insurance are mostly mathematical intractable due to their complex structure, and therefore the calculation of credibility premiums must be obtained via simulations from the predictive distribution using Markov Chain Monte Carlo (MCMC) methods. However, such simulations are computationally expensive and even prohibitive for large portfolios. In addition, the computations end up being "black-box" procedures for the actuary, as there is no clear expression to know how the observed experience is used to upgrade premiums. In this paper we address these two challenges. At first we propose a simple, but efficient, simulation setup in which simulations are only drawn from the prior distribution, instead of the posterior one. Secondly, we propose a methodology to estimate a closed-form credibility formula from which approximated Bayesian credibility premiums can be computed for any model, therefore allowing for practical interpretations of how the previous claim experience of a policyholder can be used to derive credibility premiums.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-07-13T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+# date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
